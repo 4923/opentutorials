@@ -1,6 +1,6 @@
 <h1 align="center"> opentutorials </h1>
 <p align="center">
-  <a href="www.opentutorials.org"> 생활코딩의 컨텐츠를 학습합니다.</a>
+  <a href="https://www.opentutorials.org"> 생활코딩의 컨텐츠를 학습합니다.</a>
 </p>
 
 <div align="center">
