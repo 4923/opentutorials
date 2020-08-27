@@ -10,8 +10,13 @@
 </div>
 
 
-------
-* 수업 목록은 시간 순
+<!-- 하단부터 markdown -->
 
-### [ml.yah.ac 머신러닝 야학](https://ml.yah.ac)
+* 수업 목록은 학습 시간 순
+* 학습내용은 노션에 정리
+
+## Contents
+#### 야학
+  * [지식지도](https://seomal.org)
+##### 머신러닝 야학 [ml.yah.ac](https://ml.yah.ac)
 1. [머신러닝 1](https://www.notion.so/1-8607b3cf2a5c48408d08f19ec094091b)
