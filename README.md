@@ -6,7 +6,7 @@
 <div align="center">
   <img alt="GitHub last commit" align="center" src="https://img.shields.io/github/last-commit/4923/opentutorials">
   <img alt="Top lang" align="center" src="https://img.shields.io/github/languages/top/4923/opentutorials">
-  <img alt="commitss" align="center" src="https://img.shields.io/github/commit-activity/m/4923/opentutorials">
+  <img alt="commitss" align="center" src="https://img.shields.io/github/repo-size/4923/opentutorials?color=blueviolet">
 </div>
 
 ------
